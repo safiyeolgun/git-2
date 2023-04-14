@@ -1,3 +1,3 @@
-# git-2
+# Student Lab
 
-Student Lab problem solutions
+problem solutions
